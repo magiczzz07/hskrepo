@@ -1,0 +1,14 @@
+<package>
+	<id> com.x204.krpubg_0.15.0-1+debug_iphoneos-arm </id>
+	<name>ModemenuKorea</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> com.x204.krpubg_0.15.0-1+debug_iphoneos-arm </package> 
+	</dependencies>
+	<shortDescription>Korea Mod menu- No Recoil, Small crosshair no grasss no zoom</shortDescription>
+				</package>

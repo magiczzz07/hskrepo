@@ -21,9 +21,9 @@
 			<description>This is a description for screenshot </description>
 			<image>mod.jpg</image>
 		</screenshot>		
-    <changelog>
-        <change>Initial release</change>
-    </changelog>
+<changelog>
+		<change>First releaseinfo</change>
+</changelog>
 <links>
 		<link>
 			<name>/r/twitter</name>

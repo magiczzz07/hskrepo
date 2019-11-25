@@ -13,9 +13,9 @@ Author: HSK
 Depiction: https://hkdashing.github.io/hskrepo/depictions/?p=hskmodmenu
 
 
-Package: com.x204.krpubg_0.15.0-1+debug_iphoneos-arm
+Package: pubgkorean
 Version: 1.0
-Section: Tweak
+Section: Game
 Maintainer: HSK <Khawajahasnain@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -25,4 +25,4 @@ MD5sum: a23733f01d89d08a62b058bfbe93b96e
 Description: PUBG Korean Mod
 Name: PUBG Korean Mod
 Author: HSK
-Depiction: https://hkdashing.github.io/hskrepo/depictions/?p=com.x204.krpubg_0.15.0-1+debug_iphoneos-arm
+Depiction: https://hkdashing.github.io/hskrepo/depictions/?p=pubgkorean

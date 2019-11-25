@@ -1,0 +1,24 @@
+<package>
+    <id>pubgkorean</id>
+    <name>PUBG ROKEAN MOD MENU</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>13.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>PUBG ROKEAN MOD MENU No recoil, no grass</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

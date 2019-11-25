@@ -1,5 +1,4 @@
 <package>
-<<<<<<< HEAD
     <id>hskmodmenu</id>
     <name>Old Package</name>
     <version>1.0</version>
@@ -17,24 +16,14 @@
     <descriptionlist>
         <description>HSK Mod Menu</description>
     </descriptionlist>
-    <screenshots></screenshots>
+    <screenshots>
+	<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>mod.jpg</image>
+		</screenshot>	
+	</screenshots>
     <changelog>
         <change>Initial release</change>
     </changelog>
     <links></links>
 </package>
-=======
-	<id>hskmodmenu</id>
-	<name>HSK MOD MENU</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>7.0</miniOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>hskmodmenu</package> 
-	</dependencies>
-	<shortDescription>HSK Mod menu- No Recoil, Small crosshair</shortDescription>
-				</package>
->>>>>>> 9a668bc0d396497bb8d8f48dafc66f88c259a686

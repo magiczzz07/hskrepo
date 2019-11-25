@@ -1,4 +1,5 @@
 <package>
+<<<<<<< HEAD
     <id>com.x204.krpubg_0.15.0-1+debug_iphoneos-arm</id>
     <name>Korean Pubg Mod Menu v 15</name>
     <version>1.0</version>
@@ -22,3 +23,18 @@
     </changelog>
     <links></links>
 </package>
+=======
+	<id> com.x204.krpubg_0.15.0-1+debug_iphoneos-arm </id>
+	<name>ModemenuKorea</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> com.x204.krpubg_0.15.0-1+debug_iphoneos-arm </package> 
+	</dependencies>
+	<shortDescription>Korea Mod menu- No Recoil, Small crosshair no grasss no zoom</shortDescription>
+				</package>
+>>>>>>> 9a668bc0d396497bb8d8f48dafc66f88c259a686

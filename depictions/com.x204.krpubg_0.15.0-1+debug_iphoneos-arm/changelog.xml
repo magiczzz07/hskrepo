@@ -1,6 +1,14 @@
 <changelog>
+<<<<<<< HEAD
     <changes>
         <version>1.0</version>
         <change>Initial release</change>
     </changes>
 </changelog>
+=======
+	<changes>
+		<version>1.0</version>
+		<change>First releaseinfo</change>
+	</changes>
+</changelog>
+>>>>>>> 9a668bc0d396497bb8d8f48dafc66f88c259a686

@@ -1,10 +1,17 @@
 Code for newterm !
 
-    git status  ( looking changing file)
-    bzip2 + file
+    git clone url ( clone your github)
+	git status  ( looking changing file)
+	git remote add origin https://github.com/yourusername/your-repo-name.git   ( get remote to your origin git)
+	git init  ( looking the directory git hub on the phone)
+	bzip2 + file name  ( compress file)
+	bzip2 -d + file name ( decompress file)
+	bzip2 -zk + filename  ( keepping default file and make copy file to conpress
+	git push origin mater
     git add --all
     git commit -m "whatever"
     git push origin mater
+	git pull origin mater ( take all change file to your git Phone)
 
 
 Edit `Release` file. Modify the items pointed by `<--`

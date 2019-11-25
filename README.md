@@ -1,10 +1,10 @@
 Code for newterm !
 
-git status  ( looking changing file)
-bzip2 + file
-git add --all
-git commit -m "whatever"
-git push origin mater
+    git status  ( looking changing file)
+    bzip2 + file
+    git add --all
+    git commit -m "whatever"
+    git push origin mater
 
 
 Edit `Release` file. Modify the items pointed by `<--`
